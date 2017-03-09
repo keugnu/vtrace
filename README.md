@@ -1,3 +1,3 @@
 # VTrace
 
-VTrace is a traceroute visualizer
+VTrace is a visualization of traceroute.
