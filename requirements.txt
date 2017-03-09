@@ -2,3 +2,4 @@ flask
 flask-moment
 flask-wtf
 flask-bootstrap
+flask-googlemaps
